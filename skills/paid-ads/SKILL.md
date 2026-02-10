@@ -307,6 +307,7 @@ For tracking, see also: [ga4.md](../../tools/integrations/ga4.md), [segment.md](
 
 ## Related Skills
 
+- **meta-ads**: For dedicated Meta (Facebook/Instagram) advertising guidance
 - **copywriting**: For landing page copy that converts ad traffic
 - **analytics-tracking**: For proper conversion tracking setup
 - **ab-test-setup**: For landing page testing to improve ROAS

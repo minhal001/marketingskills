@@ -16,6 +16,7 @@ Current versions of all skills. Agents can compare against local versions to che
 | launch-strategy | 1.0.0 | 2026-01-27 |
 | marketing-ideas | 1.0.0 | 2026-01-27 |
 | marketing-psychology | 1.0.0 | 2026-01-27 |
+| meta-ads | 1.0.0 | 2026-02-10 |
 | onboarding-cro | 1.0.0 | 2026-01-27 |
 | page-cro | 1.0.0 | 2026-01-27 |
 | paid-ads | 1.0.0 | 2026-01-27 |
@@ -31,6 +32,9 @@ Current versions of all skills. Agents can compare against local versions to che
 | social-content | 1.0.0 | 2026-01-27 |
 
 ## Recent Changes
+
+### 2026-02-10
+- Added meta-ads skill for dedicated Meta (Facebook/Instagram) advertising guidance
 
 ### 2026-01-27
 - Initial version tracking added

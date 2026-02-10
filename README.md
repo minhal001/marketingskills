@@ -28,7 +28,8 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 | [free-tool-strategy](skills/free-tool-strategy/) | When the user wants to plan, evaluate, or build a free tool for marketing purposes — lead generation, SEO value, or... |
 | [launch-strategy](skills/launch-strategy/) | When the user wants to plan a product launch, feature announcement, or release strategy. Also use when the user... |
 | [marketing-ideas](skills/marketing-ideas/) | When the user needs marketing ideas, inspiration, or strategies for their SaaS or software product. Also use when the... |
-| [marketing-psychology](skills/marketing-psychology/) | When the user wants to apply psychological principles, mental models, or behavioral science to marketing. Also use when... |
+| [marketing-psychology](skills/marketing-psychology/) | When the user wants to apply psychological principles, mental models, or behavioral science to marketing. Also use when...
+| [meta-ads](skills/meta-ads/) | When the user wants help specifically with Meta (Facebook/Instagram) advertising campaigns. Also use when the user mentions... |
 | [onboarding-cro](skills/onboarding-cro/) | When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value. Also... |
 | [page-cro](skills/page-cro/) | When the user wants to optimize, improve, or increase conversions on any marketing page — including homepage, landing... |
 | [paid-ads](skills/paid-ads/) | When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X,... |
@@ -165,6 +166,7 @@ You can also invoke skills directly:
 
 ### Paid & Distribution
 - `paid-ads` - Google, Meta, LinkedIn ad campaigns
+- `meta-ads` - Meta (Facebook/Instagram) ad campaigns
 - `social-content` - Social media scheduling and strategy
 
 ### Measurement & Testing
